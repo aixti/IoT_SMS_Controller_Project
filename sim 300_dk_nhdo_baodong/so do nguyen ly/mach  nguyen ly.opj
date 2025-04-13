@@ -1,0 +1,35 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\mach  nguyen ly.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\mach  nguyen ly.dsn")
+      (Path "Design Resources" ".\mach  nguyen ly.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\mach  nguyen ly.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -5 -34 0 200 0 382"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -5 -34 50 1260 66 487")
+        (Scroll "0 0")
+        (Zoom "48")
+        (Occurrence "/"))
+      (Path "D:\DATN_DK QUA SIM300\GHI DIA\SO DO NGUYEN LY\MACH  NGUYEN LY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
