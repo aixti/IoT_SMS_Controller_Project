@@ -51,7 +51,7 @@ Developed by **Trương Thanh Tuấn**, during my graduation thesis at **Trườ
 
 **Trương Thanh Tuấn**  
 Email: tuan.truongthanh@outlook.com  
-GitHub: [https://github.com/tuan-truongthanh](https://github.com/tuan-truongthanh)
+GitHub: https://github.com/aixti
 
 ---
 
